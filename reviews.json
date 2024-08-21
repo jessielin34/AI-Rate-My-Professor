@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Alice Johnson",
+        "review": "Great professor! Explains concepts clearly and is very approachable.",
+        "subject": "Calculus",
+        "stars": 5
+      },
+      {
+        "professor": "Prof. Bob Smith",
+        "review": "The lectures were engaging, but the exams were tough.",
+        "subject": "Physics",
+        "stars": 4
+      },
+      {
+        "professor": "Dr. Carol White",
+        "review": "Very knowledgeable but tends to go off-topic often.",
+        "subject": "History",
+        "stars": 3
+      },
+      {
+        "professor": "Prof. David Lee",
+        "review": "Amazing class! The professor makes learning fun.",
+        "subject": "Computer Science",
+        "stars": 5
+      },
+      {
+        "professor": "Dr. Emily Clark",
+        "review": "The course material was difficult, but the professor was very supportive.",
+        "subject": "Chemistry",
+        "stars": 4
+      },
+      {
+        "professor": "Prof. Frank Harris",
+        "review": "The professor was too strict and the assignments were overwhelming.",
+        "subject": "Economics",
+        "stars": 2
+      },
+      {
+        "professor": "Dr. Grace Miller",
+        "review": "One of the best professors I've ever had!",
+        "subject": "Literature",
+        "stars": 5
+      },
+      {
+        "professor": "Prof. Henry Davis",
+        "review": "The lectures were boring and hard to follow.",
+        "subject": "Philosophy",
+        "stars": 2
+      },
+      {
+        "professor": "Dr. Isabella Martinez",
+        "review": "Excellent professor, very clear and concise.",
+        "subject": "Biology",
+        "stars": 5
+      },
+      {
+        "professor": "Prof. Jack Wilson",
+        "review": "Good professor but too many assignments.",
+        "subject": "Statistics",
+        "stars": 3
+      },
+      {
+        "professor": "Dr. Karen Brown",
+        "review": "Very engaging and helpful, but the workload is heavy.",
+        "subject": "Sociology",
+        "stars": 4
+      },
+      {
+        "professor": "Prof. Larry Moore",
+        "review": "The professor is okay, but the material is very challenging.",
+        "subject": "Engineering",
+        "stars": 3
+      },
+      {
+        "professor": "Dr. Megan Taylor",
+        "review": "Fantastic professor, really knows how to teach!",
+        "subject": "Art History",
+        "stars": 5
+      },
+      {
+        "professor": "Prof. Nathan Young",
+        "review": "The class was alright, but the professor's teaching style wasn't great.",
+        "subject": "Psychology",
+        "stars": 3
+      },
+      {
+        "professor": "Dr. Olivia Thompson",
+        "review": "The professor was very supportive and gave good feedback.",
+        "subject": "English",
+        "stars": 4
+      },
+      {
+        "professor": "Prof. Peter Anderson",
+        "review": "The lectures were too fast-paced and hard to understand.",
+        "subject": "Finance",
+        "stars": 2
+      },
+      {
+        "professor": "Dr. Quinn Martin",
+        "review": "Amazing professor! Makes the subject really interesting.",
+        "subject": "Environmental Science",
+        "stars": 5
+      },
+      {
+        "professor": "Prof. Rachel Garcia",
+        "review": "The class was challenging, but the professor was very clear.",
+        "subject": "Political Science",
+        "stars": 4
+      },
+      {
+        "professor": "Dr. Samuel Jackson",
+        "review": "The professor is knowledgeable, but the lectures were too dry.",
+        "subject": "Geography",
+        "stars": 3
+      },
+      {
+        "professor": "Prof. Tina Roberts",
+        "review": "Wonderful professor! Really cares about students' learning.",
+        "subject": "Anthropology",
+        "stars": 5
+      }
+    ]
+  }
+  
